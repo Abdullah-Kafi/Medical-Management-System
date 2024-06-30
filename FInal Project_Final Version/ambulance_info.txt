@@ -1,0 +1,44 @@
+1
+Agrabad
+Panchlaish
+01711112222
+2
+Chawkbazar
+Kotwali
+01712345678
+3
+Bakalia
+Halishahar
+01722223333
+4
+Pahartali
+Double Mooring
+01733334444
+5
+Patenga
+Sadarghat
+01744445555
+6
+Khulshi
+Bayezid
+01755556666
+7
+Jamal Khan
+Lalkhan Bazar
+01766667777
+8
+Rampur
+Nasirabad
+01777778888
+9
+Karnaphuli
+EPZ
+01788889999
+10
+Sholoshahar
+Muradpur
+01799990000
+11
+Bakalia
+Chawkbazar
+019999999
